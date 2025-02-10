@@ -1,5 +1,4 @@
-{
-"albums" :[
+[
     {
         "albumid": 1,
         "title": "Whole Lotta Red",
@@ -37,4 +36,3 @@
         "image": "https://t2.genius.com/unsafe/167x0/https%3A%2F%2Fimages.genius.com%2F271351d6640ae828a9b072fc3bbe72cd.1000x1000x1.png"
     }
 ]
-}
