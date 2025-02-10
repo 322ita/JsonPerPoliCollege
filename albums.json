@@ -1,0 +1,40 @@
+{
+"albums" :[
+    {
+        "albumid": 1,
+        "title": "Whole Lotta Red",
+        "artist": "Playboi Carti",
+        "year": 2020,
+        "genre": "rap",
+        "tracks": 24,
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0db2bb3f8dcebb4279db97dc7608d090.gif"
+    },
+    {
+        "albumid": 2,
+        "title": "A Great Chaos (Deluxe)",
+        "artist": "Ken Carson",    
+        "year": 2024,
+        "genre": "rap",
+        "tracks": 25,
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d540ff927dfc84e7dca9784d5dd95b0f.gif"
+    },
+    {
+        "albumid": 3,
+        "title": "LOVE LASTS FOREVER",
+        "artist": "Destroy Lonely",
+        "year": 2024,
+        "genre": "rap",
+        "tracks": 21,
+        "image": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Ff41430bf4789610c8773ebbb9748c390.1000x1000x1.png"
+    },
+    {
+        "albumid": 4,
+        "title": "i5u5we5",
+        "artist": "Homixide Gang",
+        "year": 2024,
+        "genre": "rap",
+        "tracks": 14,
+        "image": "https://t2.genius.com/unsafe/167x0/https%3A%2F%2Fimages.genius.com%2F271351d6640ae828a9b072fc3bbe72cd.1000x1000x1.png"
+    }
+]
+}
