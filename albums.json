@@ -6,7 +6,8 @@
         "year": 2020,
         "genre": "rap",
         "tracks": 24,
-        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0db2bb3f8dcebb4279db97dc7608d090.gif"
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0db2bb3f8dcebb4279db97dc7608d090.gif",
+        "spotify_link": "https://open.spotify.com/intl-it/album/2QRedhP5RmKJiJ1i8VgDGR?si=1780967cb9fb4258"
     },
     {
         "albumid": 2,
@@ -15,7 +16,8 @@
         "year": 2024,
         "genre": "rap",
         "tracks": 25,
-        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d540ff927dfc84e7dca9784d5dd95b0f.gif"
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d540ff927dfc84e7dca9784d5dd95b0f.gif",
+        "spotify_link": "https://open.spotify.com/intl-it/album/58iEeJbYd6OBGRM0TiwltL?si=5654486bfb0e4a59"
     },
     {
         "albumid": 3,
@@ -24,7 +26,8 @@
         "year": 2024,
         "genre": "rap",
         "tracks": 21,
-        "image": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Ff41430bf4789610c8773ebbb9748c390.1000x1000x1.png"
+        "image": "https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Ff41430bf4789610c8773ebbb9748c390.1000x1000x1.png",
+        "spotify_link": "https://open.spotify.com/intl-it/album/6BQgHrnJsXjBiuD1Q8zrmv?si=5ae0a9199a8c439e"
     },
     {
         "albumid": 4,
@@ -33,6 +36,17 @@
         "year": 2024,
         "genre": "rap",
         "tracks": 14,
-        "image": "https://t2.genius.com/unsafe/167x0/https%3A%2F%2Fimages.genius.com%2F271351d6640ae828a9b072fc3bbe72cd.1000x1000x1.png"
+        "image": "https://t2.genius.com/unsafe/167x0/https%3A%2F%2Fimages.genius.com%2F271351d6640ae828a9b072fc3bbe72cd.1000x1000x1.png",
+        "spotify_link": "https://open.spotify.com/intl-it/album/6VQw51JISwFViXaj3K7u9d?si=1c4b6acdb5474a50"
+    },
+    {
+        "albumid": 5,
+        "title": "Jump Out",
+        "artist": "OsamaSon",
+        "year": 2025,
+        "genre": "rap",
+        "tracks": 18,
+        "image": "https://i.scdn.co/image/ab67616d00001e0226852f80b40cb6c65b8f5d4f",
+        "spotify_link": "https://open.spotify.com/intl-it/album/6VQw51JISwFViXaj3K7u9d?si=1c4b6acdb5474a50"
     }
 ]
