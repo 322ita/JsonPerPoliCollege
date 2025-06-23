@@ -1,23 +1,23 @@
 [
     {
         "albumid": 1,
-        "title": "Whole Lotta Red",
+        "title": "MUSIC - SORRY 4 DA WAIT",
         "artist": "Playboi Carti",
         "year": 2020,
         "genre": "rap",
-        "tracks": 24,
-        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/0db2bb3f8dcebb4279db97dc7608d090.gif",
-        "spotify_link": "https://open.spotify.com/intl-it/album/2QRedhP5RmKJiJ1i8VgDGR?si=1780967cb9fb4258"
+        "tracks": 34,
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/a1ae3738d6b4c9ba090f2ae493c76c8d.jpg",
+        "spotify_link": "https://open.spotify.com/intl-it/album/7sFZGbkCitoqQz7Rt3LoKg?si=InrA3si8RNO4HHoRNOCSLw"
     },
     {
         "albumid": 2,
-        "title": "A Great Chaos (Deluxe)",
+        "title": "More Chaos",
         "artist": "Ken Carson",    
-        "year": 2024,
+        "year": 2025,
         "genre": "rap",
-        "tracks": 25,
-        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/d540ff927dfc84e7dca9784d5dd95b0f.gif",
-        "spotify_link": "https://open.spotify.com/intl-it/album/58iEeJbYd6OBGRM0TiwltL?si=5654486bfb0e4a59"
+        "tracks": 22,
+        "image": "https://lastfm.freetls.fastly.net/i/u/770x0/1064ca8e270b530391afefa720ff76ff.gif",
+        "spotify_link": "https://open.spotify.com/intl-it/album/1TiWFnZwyZ152viq7v9C31?si=AmskjG0QQLSKERQPhMAreA"
     },
     {
         "albumid": 3,
